@@ -4,8 +4,11 @@ date: 2026-09-20
 draft: false
 ---
 
-Hi, I'm Seys. I'm into offensive security and pentesting - Active Directory, exploit development, low-level stuff.
+System administrator apprentice, managing a 75-100 workstation
+Windows environment. I'm currently learning offensive security,
+with a focus on Active Directory.
 
-This blog is where I write things down as I go: certification notes, tools I build, things I learn along the way. No fixed plan yet, just documenting the process.
+I write here about what I understand while learning - mostly
+protocol-level explanations and things I got wrong first.
 
-You can find my code on [GitHub](https://github.com/RootOrRiot), or reach me at contact@futuredomain.com.
+GitHub: https://github.com/RootOrRiot
